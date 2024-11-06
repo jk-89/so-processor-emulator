@@ -1,6 +1,6 @@
-# SO Processor Emulator
+# SO Processor Emulator in Asembler x86
 
-An Assembly program developed for the Operating System course at the University of Warsaw. It implements an x86-64 assembly function to emulate the operation of the SO processor, callable from C.
+Implementation of an x86-64 assembly function to emulate the operation of the SO processor, callable from C.
 
 ## Detailed description
 
